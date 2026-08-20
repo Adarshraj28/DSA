@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Adarshraj28/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0821-shortest-distance-to-a-character](https://github.com/Adarshraj28/DSA/tree/master/0821-shortest-distance-to-a-character) |
 ## Binary Search
 |  |
 | ------- |
@@ -13,8 +14,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0696-count-binary-substrings](https://github.com/Adarshraj28/DSA/tree/master/0696-count-binary-substrings) |
+| [0821-shortest-distance-to-a-character](https://github.com/Adarshraj28/DSA/tree/master/0821-shortest-distance-to-a-character) |
 ## String
 |  |
 | ------- |
 | [0696-count-binary-substrings](https://github.com/Adarshraj28/DSA/tree/master/0696-count-binary-substrings) |
+| [0821-shortest-distance-to-a-character](https://github.com/Adarshraj28/DSA/tree/master/0821-shortest-distance-to-a-character) |
 <!---LeetCode Topics End-->

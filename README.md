@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0367-valid-perfect-square](https://github.com/Adarshraj28/DSA/tree/master/0367-valid-perfect-square) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Adarshraj28/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Two Pointers
 |  |
@@ -20,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0696-count-binary-substrings](https://github.com/Adarshraj28/DSA/tree/master/0696-count-binary-substrings) |
 | [0821-shortest-distance-to-a-character](https://github.com/Adarshraj28/DSA/tree/master/0821-shortest-distance-to-a-character) |
+## Math
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/Adarshraj28/DSA/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->

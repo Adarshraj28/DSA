@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Adarshraj28/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0748-shortest-completing-word](https://github.com/Adarshraj28/DSA/tree/master/0748-shortest-completing-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/Adarshraj28/DSA/tree/master/0821-shortest-distance-to-a-character) |
 ## Binary Search
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0696-count-binary-substrings](https://github.com/Adarshraj28/DSA/tree/master/0696-count-binary-substrings) |
+| [0748-shortest-completing-word](https://github.com/Adarshraj28/DSA/tree/master/0748-shortest-completing-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/Adarshraj28/DSA/tree/master/0821-shortest-distance-to-a-character) |
 ## Math
 |  |
@@ -41,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/Adarshraj28/DSA/tree/master/0404-sum-of-left-leaves) |
+## Hash Table
+|  |
+| ------- |
+| [0748-shortest-completing-word](https://github.com/Adarshraj28/DSA/tree/master/0748-shortest-completing-word) |
 <!---LeetCode Topics End-->

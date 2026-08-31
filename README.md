@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0367-valid-perfect-square](https://github.com/Adarshraj28/DSA/tree/master/0367-valid-perfect-square) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Adarshraj28/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [2413-smallest-even-multiple](https://github.com/Adarshraj28/DSA/tree/master/2413-smallest-even-multiple) |
 ## Tree
 |  |
 | ------- |
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0748-shortest-completing-word](https://github.com/Adarshraj28/DSA/tree/master/0748-shortest-completing-word) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/Adarshraj28/DSA/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->

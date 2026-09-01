@@ -15,11 +15,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/Adarshraj28/DSA/tree/master/0392-is-subsequence) |
 | [0696-count-binary-substrings](https://github.com/Adarshraj28/DSA/tree/master/0696-count-binary-substrings) |
 | [0821-shortest-distance-to-a-character](https://github.com/Adarshraj28/DSA/tree/master/0821-shortest-distance-to-a-character) |
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/Adarshraj28/DSA/tree/master/0392-is-subsequence) |
 | [0696-count-binary-substrings](https://github.com/Adarshraj28/DSA/tree/master/0696-count-binary-substrings) |
 | [0748-shortest-completing-word](https://github.com/Adarshraj28/DSA/tree/master/0748-shortest-completing-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/Adarshraj28/DSA/tree/master/0821-shortest-distance-to-a-character) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/Adarshraj28/DSA/tree/master/0392-is-subsequence) |
 | [1668-maximum-repeating-substring](https://github.com/Adarshraj28/DSA/tree/master/1668-maximum-repeating-substring) |
 ## String Matching
 |  |

@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0553-optimal-division](https://github.com/Adarshraj28/DSA/tree/master/0553-optimal-division) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Adarshraj28/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0748-shortest-completing-word](https://github.com/Adarshraj28/DSA/tree/master/0748-shortest-completing-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/Adarshraj28/DSA/tree/master/0821-shortest-distance-to-a-character) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/Adarshraj28/DSA/tree/master/0367-valid-perfect-square) |
+| [0553-optimal-division](https://github.com/Adarshraj28/DSA/tree/master/0553-optimal-division) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Adarshraj28/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2413-smallest-even-multiple](https://github.com/Adarshraj28/DSA/tree/master/2413-smallest-even-multiple) |
 ## Tree
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Adarshraj28/DSA/tree/master/0392-is-subsequence) |
+| [0553-optimal-division](https://github.com/Adarshraj28/DSA/tree/master/0553-optimal-division) |
 | [1668-maximum-repeating-substring](https://github.com/Adarshraj28/DSA/tree/master/1668-maximum-repeating-substring) |
 ## String Matching
 |  |

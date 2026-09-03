@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/Adarshraj28/DSA/tree/master/0152-maximum-product-subarray) |
 | [0553-optimal-division](https://github.com/Adarshraj28/DSA/tree/master/0553-optimal-division) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Adarshraj28/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0748-shortest-completing-word](https://github.com/Adarshraj28/DSA/tree/master/0748-shortest-completing-word) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/Adarshraj28/DSA/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/Adarshraj28/DSA/tree/master/0392-is-subsequence) |
 | [0553-optimal-division](https://github.com/Adarshraj28/DSA/tree/master/0553-optimal-division) |
 | [1668-maximum-repeating-substring](https://github.com/Adarshraj28/DSA/tree/master/1668-maximum-repeating-substring) |

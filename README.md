@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Adarshraj28/DSA/tree/master/0152-maximum-product-subarray) |
 | [0553-optimal-division](https://github.com/Adarshraj28/DSA/tree/master/0553-optimal-division) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Adarshraj28/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0746-min-cost-climbing-stairs](https://github.com/Adarshraj28/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0748-shortest-completing-word](https://github.com/Adarshraj28/DSA/tree/master/0748-shortest-completing-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/Adarshraj28/DSA/tree/master/0821-shortest-distance-to-a-character) |
 ## Binary Search
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Adarshraj28/DSA/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/Adarshraj28/DSA/tree/master/0392-is-subsequence) |
 | [0553-optimal-division](https://github.com/Adarshraj28/DSA/tree/master/0553-optimal-division) |
+| [0746-min-cost-climbing-stairs](https://github.com/Adarshraj28/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [1668-maximum-repeating-substring](https://github.com/Adarshraj28/DSA/tree/master/1668-maximum-repeating-substring) |
 ## String Matching
 |  |

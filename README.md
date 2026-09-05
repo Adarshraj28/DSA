@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/Adarshraj28/DSA/tree/master/0367-valid-perfect-square) |
+| [0445-add-two-numbers-ii](https://github.com/Adarshraj28/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0553-optimal-division](https://github.com/Adarshraj28/DSA/tree/master/0553-optimal-division) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Adarshraj28/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2413-smallest-even-multiple](https://github.com/Adarshraj28/DSA/tree/master/2413-smallest-even-multiple) |
@@ -74,4 +75,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1668-maximum-repeating-substring](https://github.com/Adarshraj28/DSA/tree/master/1668-maximum-repeating-substring) |
+## Linked List
+|  |
+| ------- |
+| [0445-add-two-numbers-ii](https://github.com/Adarshraj28/DSA/tree/master/0445-add-two-numbers-ii) |
+## Stack
+|  |
+| ------- |
+| [0445-add-two-numbers-ii](https://github.com/Adarshraj28/DSA/tree/master/0445-add-two-numbers-ii) |
 <!---LeetCode Topics End-->

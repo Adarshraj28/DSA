@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/Adarshraj28/DSA/tree/master/0152-maximum-product-subarray) |
+| [0174-dungeon-game](https://github.com/Adarshraj28/DSA/tree/master/0174-dungeon-game) |
 | [0553-optimal-division](https://github.com/Adarshraj28/DSA/tree/master/0553-optimal-division) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Adarshraj28/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/Adarshraj28/DSA/tree/master/0746-min-cost-climbing-stairs) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0091-decode-ways](https://github.com/Adarshraj28/DSA/tree/master/0091-decode-ways) |
 | [0152-maximum-product-subarray](https://github.com/Adarshraj28/DSA/tree/master/0152-maximum-product-subarray) |
+| [0174-dungeon-game](https://github.com/Adarshraj28/DSA/tree/master/0174-dungeon-game) |
 | [0392-is-subsequence](https://github.com/Adarshraj28/DSA/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/Adarshraj28/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0553-optimal-division](https://github.com/Adarshraj28/DSA/tree/master/0553-optimal-division) |
@@ -98,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Adarshraj28/DSA/tree/master/0678-valid-parenthesis-string) |
+## Matrix
+|  |
+| ------- |
+| [0174-dungeon-game](https://github.com/Adarshraj28/DSA/tree/master/0174-dungeon-game) |
 <!---LeetCode Topics End-->

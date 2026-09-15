@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-shortest-completing-word](https://github.com/Adarshraj28/DSA/tree/master/0748-shortest-completing-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/Adarshraj28/DSA/tree/master/0821-shortest-distance-to-a-character) |
 | [0983-minimum-cost-for-tickets](https://github.com/Adarshraj28/DSA/tree/master/0983-minimum-cost-for-tickets) |
+| [1049-last-stone-weight-ii](https://github.com/Adarshraj28/DSA/tree/master/1049-last-stone-weight-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Adarshraj28/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0983-minimum-cost-for-tickets](https://github.com/Adarshraj28/DSA/tree/master/0983-minimum-cost-for-tickets) |
 | [1025-divisor-game](https://github.com/Adarshraj28/DSA/tree/master/1025-divisor-game) |
+| [1049-last-stone-weight-ii](https://github.com/Adarshraj28/DSA/tree/master/1049-last-stone-weight-ii) |
 | [1668-maximum-repeating-substring](https://github.com/Adarshraj28/DSA/tree/master/1668-maximum-repeating-substring) |
 ## String Matching
 |  |
@@ -124,8 +126,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Adarshraj28/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [1049-last-stone-weight-ii](https://github.com/Adarshraj28/DSA/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Adarshraj28/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [1049-last-stone-weight-ii](https://github.com/Adarshraj28/DSA/tree/master/1049-last-stone-weight-ii) |
 <!---LeetCode Topics End-->

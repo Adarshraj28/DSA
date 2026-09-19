@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Adarshraj28/DSA/tree/master/0063-unique-paths-ii) |
 | [0152-maximum-product-subarray](https://github.com/Adarshraj28/DSA/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/Adarshraj28/DSA/tree/master/0174-dungeon-game) |
 | [0368-largest-divisible-subset](https://github.com/Adarshraj28/DSA/tree/master/0368-largest-divisible-subset) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Adarshraj28/DSA/tree/master/0063-unique-paths-ii) |
 | [0091-decode-ways](https://github.com/Adarshraj28/DSA/tree/master/0091-decode-ways) |
 | [0152-maximum-product-subarray](https://github.com/Adarshraj28/DSA/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/Adarshraj28/DSA/tree/master/0174-dungeon-game) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Adarshraj28/DSA/tree/master/0063-unique-paths-ii) |
 | [0174-dungeon-game](https://github.com/Adarshraj28/DSA/tree/master/0174-dungeon-game) |
 ## Brainteaser
 |  |

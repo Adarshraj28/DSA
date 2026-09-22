@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-shortest-completing-word](https://github.com/Adarshraj28/DSA/tree/master/0748-shortest-completing-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/Adarshraj28/DSA/tree/master/0821-shortest-distance-to-a-character) |
 | [1668-maximum-repeating-substring](https://github.com/Adarshraj28/DSA/tree/master/1668-maximum-repeating-substring) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Adarshraj28/DSA/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 ## Math
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/Adarshraj28/DSA/tree/master/1025-divisor-game) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Adarshraj28/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2413-smallest-even-multiple](https://github.com/Adarshraj28/DSA/tree/master/2413-smallest-even-multiple) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Adarshraj28/DSA/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 ## Tree
 |  |
 | ------- |

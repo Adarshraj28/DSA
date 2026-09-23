@@ -20,11 +20,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/Adarshraj28/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0983-minimum-cost-for-tickets](https://github.com/Adarshraj28/DSA/tree/master/0983-minimum-cost-for-tickets) |
 | [1049-last-stone-weight-ii](https://github.com/Adarshraj28/DSA/tree/master/1049-last-stone-weight-ii) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Adarshraj28/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Binary Search
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/Adarshraj28/DSA/tree/master/0367-valid-perfect-square) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Adarshraj28/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Adarshraj28/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Two Pointers
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0748-shortest-completing-word](https://github.com/Adarshraj28/DSA/tree/master/0748-shortest-completing-word) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Adarshraj28/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Number Theory
 |  |
 | ------- |
@@ -175,4 +178,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Adarshraj28/DSA/tree/master/0877-stone-game) |
+## Sliding Window
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Adarshraj28/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Prefix Sum
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Adarshraj28/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->

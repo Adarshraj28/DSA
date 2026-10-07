@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0091-decode-ways](https://github.com/Adarshraj28/DSA/tree/master/0091-decode-ways) |
 | [0392-is-subsequence](https://github.com/Adarshraj28/DSA/tree/master/0392-is-subsequence) |
+| [0434-number-of-segments-in-a-string](https://github.com/Adarshraj28/DSA/tree/master/0434-number-of-segments-in-a-string) |
 | [0474-ones-and-zeroes](https://github.com/Adarshraj28/DSA/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/Adarshraj28/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Adarshraj28/DSA/tree/master/0678-valid-parenthesis-string) |

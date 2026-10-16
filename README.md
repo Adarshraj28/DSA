@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Adarshraj28/DSA/tree/master/0063-unique-paths-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Adarshraj28/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0134-gas-station](https://github.com/Adarshraj28/DSA/tree/master/0134-gas-station) |
 | [0152-maximum-product-subarray](https://github.com/Adarshraj28/DSA/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/Adarshraj28/DSA/tree/master/0174-dungeon-game) |
 | [0368-largest-divisible-subset](https://github.com/Adarshraj28/DSA/tree/master/0368-largest-divisible-subset) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/Adarshraj28/DSA/tree/master/0134-gas-station) |
 | [0678-valid-parenthesis-string](https://github.com/Adarshraj28/DSA/tree/master/0678-valid-parenthesis-string) |
 ## Bracket Sequences
 |  |

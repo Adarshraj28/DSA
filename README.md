@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0091-decode-ways](https://github.com/Adarshraj28/DSA/tree/master/0091-decode-ways) |
+| [0131-palindrome-partitioning](https://github.com/Adarshraj28/DSA/tree/master/0131-palindrome-partitioning) |
 | [0392-is-subsequence](https://github.com/Adarshraj28/DSA/tree/master/0392-is-subsequence) |
 | [0434-number-of-segments-in-a-string](https://github.com/Adarshraj28/DSA/tree/master/0434-number-of-segments-in-a-string) |
 | [0474-ones-and-zeroes](https://github.com/Adarshraj28/DSA/tree/master/0474-ones-and-zeroes) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Adarshraj28/DSA/tree/master/0063-unique-paths-ii) |
 | [0091-decode-ways](https://github.com/Adarshraj28/DSA/tree/master/0091-decode-ways) |
+| [0131-palindrome-partitioning](https://github.com/Adarshraj28/DSA/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Adarshraj28/DSA/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/Adarshraj28/DSA/tree/master/0174-dungeon-game) |
 | [0368-largest-divisible-subset](https://github.com/Adarshraj28/DSA/tree/master/0368-largest-divisible-subset) |
@@ -203,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Adarshraj28/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Backtracking
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/Adarshraj28/DSA/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->

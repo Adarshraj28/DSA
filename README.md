@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/Adarshraj28/DSA/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Adarshraj28/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1668-maximum-repeating-substring](https://github.com/Adarshraj28/DSA/tree/master/1668-maximum-repeating-substring) |
+| [2409-count-days-spent-together](https://github.com/Adarshraj28/DSA/tree/master/2409-count-days-spent-together) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Adarshraj28/DSA/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 ## Math
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/Adarshraj28/DSA/tree/master/1025-divisor-game) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Adarshraj28/DSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Adarshraj28/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [2409-count-days-spent-together](https://github.com/Adarshraj28/DSA/tree/master/2409-count-days-spent-together) |
 | [2413-smallest-even-multiple](https://github.com/Adarshraj28/DSA/tree/master/2413-smallest-even-multiple) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Adarshraj28/DSA/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 ## Tree

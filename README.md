@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-last-stone-weight-ii](https://github.com/Adarshraj28/DSA/tree/master/1049-last-stone-weight-ii) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Adarshraj28/DSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Adarshraj28/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Adarshraj28/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Binary Search
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/Adarshraj28/DSA/tree/master/1025-divisor-game) |
 | [1049-last-stone-weight-ii](https://github.com/Adarshraj28/DSA/tree/master/1049-last-stone-weight-ii) |
 | [1668-maximum-repeating-substring](https://github.com/Adarshraj28/DSA/tree/master/1668-maximum-repeating-substring) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Adarshraj28/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## String Matching
 |  |
 | ------- |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Adarshraj28/DSA/tree/master/0063-unique-paths-ii) |
 | [0174-dungeon-game](https://github.com/Adarshraj28/DSA/tree/master/0174-dungeon-game) |
 | [0221-maximal-square](https://github.com/Adarshraj28/DSA/tree/master/0221-maximal-square) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Adarshraj28/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Brainteaser
 |  |
 | ------- |
@@ -219,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Adarshraj28/DSA/tree/master/0131-palindrome-partitioning) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Adarshraj28/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 <!---LeetCode Topics End-->

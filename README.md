@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-minimum-cost-for-tickets](https://github.com/Adarshraj28/DSA/tree/master/0983-minimum-cost-for-tickets) |
 | [1049-last-stone-weight-ii](https://github.com/Adarshraj28/DSA/tree/master/1049-last-stone-weight-ii) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Adarshraj28/DSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1254-number-of-closed-islands](https://github.com/Adarshraj28/DSA/tree/master/1254-number-of-closed-islands) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Adarshraj28/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Adarshraj28/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Binary Search
@@ -80,10 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/Adarshraj28/DSA/tree/master/0404-sum-of-left-leaves) |
+| [1254-number-of-closed-islands](https://github.com/Adarshraj28/DSA/tree/master/1254-number-of-closed-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/Adarshraj28/DSA/tree/master/0404-sum-of-left-leaves) |
+| [1254-number-of-closed-islands](https://github.com/Adarshraj28/DSA/tree/master/1254-number-of-closed-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Adarshraj28/DSA/tree/master/0063-unique-paths-ii) |
 | [0174-dungeon-game](https://github.com/Adarshraj28/DSA/tree/master/0174-dungeon-game) |
 | [0221-maximal-square](https://github.com/Adarshraj28/DSA/tree/master/0221-maximal-square) |
+| [1254-number-of-closed-islands](https://github.com/Adarshraj28/DSA/tree/master/1254-number-of-closed-islands) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Adarshraj28/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Brainteaser
 |  |
@@ -226,4 +230,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Adarshraj28/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Adarshraj28/DSA/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->

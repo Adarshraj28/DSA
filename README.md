@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Adarshraj28/DSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1254-number-of-closed-islands](https://github.com/Adarshraj28/DSA/tree/master/1254-number-of-closed-islands) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Adarshraj28/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/Adarshraj28/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Adarshraj28/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Binary Search
 |  |

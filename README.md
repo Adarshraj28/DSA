@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Adarshraj28/DSA/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Adarshraj28/DSA/tree/master/1025-divisor-game) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Adarshraj28/DSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1362-closest-divisors](https://github.com/Adarshraj28/DSA/tree/master/1362-closest-divisors) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Adarshraj28/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Adarshraj28/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2409-count-days-spent-together](https://github.com/Adarshraj28/DSA/tree/master/2409-count-days-spent-together) |
@@ -237,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Adarshraj28/DSA/tree/master/1254-number-of-closed-islands) |
+## Prime Factorization
+|  |
+| ------- |
+| [1362-closest-divisors](https://github.com/Adarshraj28/DSA/tree/master/1362-closest-divisors) |
 <!---LeetCode Topics End-->

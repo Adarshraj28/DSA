@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1362-closest-divisors](https://github.com/Adarshraj28/DSA/tree/master/1362-closest-divisors) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Adarshraj28/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Adarshraj28/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2169-count-operations-to-obtain-zero](https://github.com/Adarshraj28/DSA/tree/master/2169-count-operations-to-obtain-zero) |
 | [2409-count-days-spent-together](https://github.com/Adarshraj28/DSA/tree/master/2409-count-days-spent-together) |
 | [2413-smallest-even-multiple](https://github.com/Adarshraj28/DSA/tree/master/2413-smallest-even-multiple) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Adarshraj28/DSA/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
@@ -242,4 +243,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1362-closest-divisors](https://github.com/Adarshraj28/DSA/tree/master/1362-closest-divisors) |
+## Simulation
+|  |
+| ------- |
+| [2169-count-operations-to-obtain-zero](https://github.com/Adarshraj28/DSA/tree/master/2169-count-operations-to-obtain-zero) |
 <!---LeetCode Topics End-->

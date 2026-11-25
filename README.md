@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Adarshraj28/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Adarshraj28/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Adarshraj28/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Adarshraj28/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Adarshraj28/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Adarshraj28/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Binary Search
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1362-closest-divisors](https://github.com/Adarshraj28/DSA/tree/master/1362-closest-divisors) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Adarshraj28/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Adarshraj28/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Adarshraj28/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Adarshraj28/DSA/tree/master/2169-count-operations-to-obtain-zero) |
 | [2409-count-days-spent-together](https://github.com/Adarshraj28/DSA/tree/master/2409-count-days-spent-together) |
 | [2413-smallest-even-multiple](https://github.com/Adarshraj28/DSA/tree/master/2413-smallest-even-multiple) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Adarshraj28/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Adarshraj28/DSA/tree/master/2413-smallest-even-multiple) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Adarshraj28/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Dynamic Programming
@@ -255,4 +258,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Adarshraj28/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Adarshraj28/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Adarshraj28/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->

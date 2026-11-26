@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Adarshraj28/DSA/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Adarshraj28/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0983-minimum-cost-for-tickets](https://github.com/Adarshraj28/DSA/tree/master/0983-minimum-cost-for-tickets) |
+| [0994-rotting-oranges](https://github.com/Adarshraj28/DSA/tree/master/0994-rotting-oranges) |
 | [1049-last-stone-weight-ii](https://github.com/Adarshraj28/DSA/tree/master/1049-last-stone-weight-ii) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Adarshraj28/DSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1254-number-of-closed-islands](https://github.com/Adarshraj28/DSA/tree/master/1254-number-of-closed-islands) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/Adarshraj28/DSA/tree/master/0404-sum-of-left-leaves) |
+| [0994-rotting-oranges](https://github.com/Adarshraj28/DSA/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/Adarshraj28/DSA/tree/master/1254-number-of-closed-islands) |
 ## Binary Tree
 |  |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Adarshraj28/DSA/tree/master/0063-unique-paths-ii) |
 | [0174-dungeon-game](https://github.com/Adarshraj28/DSA/tree/master/0174-dungeon-game) |
 | [0221-maximal-square](https://github.com/Adarshraj28/DSA/tree/master/0221-maximal-square) |
+| [0994-rotting-oranges](https://github.com/Adarshraj28/DSA/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/Adarshraj28/DSA/tree/master/1254-number-of-closed-islands) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Adarshraj28/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Brainteaser

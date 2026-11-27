@@ -4,9 +4,9 @@ class Solution {
         int count = 0;
         int avg = 0;
         if(n == 1) return 1;
-        for (int i = 0; i < n ; i++) {
-            if (i == 0) {
-                if (nums[i] >= nums[i + 1]) {
+        for (int i = 0; i < n ; i++){
+            if (i == 0){
+                if (nums[i] >= nums[i + 1]){
                     count++;
                 }
             }
